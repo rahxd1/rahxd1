@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Juan Ruiz  and I'm Frontend programmer always looking to learn new and interesting things that surprise me</h2>
+<h2 align="left">Hi 👋! My name is Juan Ruiz  and I'm Frontend developer always looking to learn new and  interesting things that could (or not) surprises me.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/152f2902-701e-4d8c-bd16-74d44763f0ab/d95yt6l-5fa09400-11c6-45c2-a2f4-b58c465d6824.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1MmYyOTAyLTcwMWUtNGQ4Yy1iZDE2LTc0ZDQ0NzYzZjBhYlwvZDk1eXQ2bC01ZmEwOTQwMC0xMWM2LTQ1YzItYTJmNC1iNThjNDY1ZDY4MjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zlw6wNaC74AATaGF-vyKMtdDWRFPQJNZnAR9SGF2aWo"  />
 
 ###
 
@@ -66,9 +66,10 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/rahxd1/rahxd1/output/snake.svg" alt="Snake animation" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahxd1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ###
 
