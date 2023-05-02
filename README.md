@@ -21,8 +21,8 @@ Frontend programmer always looking to learn new and interesting things that surp
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahxd1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Random
+<img src="https://raw.githubusercontent.com/rahxd1/rahxd1/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahxd1&icon=0&color=0)](https://visitcount.itsvg.in)
